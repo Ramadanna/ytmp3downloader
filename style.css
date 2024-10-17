@@ -41,6 +41,7 @@ nav {
     position: -webkit-sticky;
     top: 0;
     background: #FFFFFF;
+    background-size: cover;
     z-index: 1;
     border-bottom:1px solid #218838
 }
@@ -67,6 +68,7 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
     background-color: bisque;
+    background-size: cover;
 }
 
 section {
